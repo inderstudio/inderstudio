@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Inder Singh 👋
+# Hi, I'm Inder Singh
 
-### Mac app developer · AV technologist · creative problem-solver
+### Applications Support Specialist · Mac app developer · AV technologist
 
-I build thoughtful Mac apps and practical tools where **software, audiovisual systems, and creative workflows** meet.
+I build thoughtful Mac and web apps where **software, audiovisual systems, and creative workflows** meet.
 
 [![Inder Studio](https://img.shields.io/badge/Inder_Studio-Mac_apps-181717?style=for-the-badge&logo=apple&logoColor=white)](https://inderstudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ip-singh)
@@ -14,23 +14,44 @@ I build thoughtful Mac apps and practical tools where **software, audiovisual sy
 
 ## About me
 
-I'm a Mac app developer and audiovisual technologist based in Melbourne, with 25+ years across broadcast media, interactive experiences, puppetry, live events, and museum technology.
+I'm an Applications Support Specialist, Mac app developer, audiovisual technologist, and musician based in Melbourne. I bring 25+ years of experience across broadcast media, interactive experiences, live events, puppetry, and museum technology.
 
 Through [**Inder Studio**](https://inderstudio.com), I create elegant, focused macOS tools for creatives and independent professionals. My first App Store release is on the way.
 
 My favourite projects remove friction from creative and technical workflows: small utilities, dependable automations, and systems that stay out of the way while people do their best work.
 
-- 🏛️ Building and supporting technology for museums, exhibitions, and learning experiences
-- 🎛️ Working across AV-over-IP, event systems, device management, and show control
-- 🧰 Turning repetitive workflows into focused macOS tools and automations
-- 🍎 Designing and shipping native Mac apps through Inder Studio
-- 🎭 Bringing a creative-producer's eye to technical problems
+- Building and supporting technology for museums, exhibitions, and learning experiences
+- Working across AV-over-IP, event systems, device management, and show control
+- Turning repetitive workflows into focused macOS tools and automations
+- Designing and shipping native Mac apps through Inder Studio
+- Exploring creative workflows through music and practical YouTube demonstrations
+- Bringing a creative producer's eye to technical problems
+
+## Workflows are personal
+
+I believe every person gradually engineers a workflow of their own. The tools they choose, the way they organise information, and the habits they build become part of both their physical and digital footprint.
+
+My role is not to prescribe one perfect system. I share practical examples, build adaptable tools, and help people carve out workflows that make sense for the way they create and work.
+
+As a musician, I explore many of these ideas through real creative projects and share the process on [**my YouTube channel**](https://www.youtube.com/@inderstudio-YouTube).
+
+## Easy-to-use web apps
+
+I also build focused browser tools that solve one problem well. They are free to open, require no installation, and are designed to get out of the way.
+
+| Web app | What it helps you do |
+|:--|:--|
+| [**Unix Timestamp Converter**](https://iphobbes.github.io/unix-timestamp-converter/) | Convert between Unix timestamps and human-readable dates and times. |
+| [**QR Creator**](https://iphobbes.github.io/QR-Creator/) | Create styled QR codes with a logo and caption, then export them as PNG, JPEG, or SVG. |
+| [**XL Formula Generator**](https://iphobbes.github.io/XL-Formula/) | Build XLOOKUP, FILTER, and IF formulas, ready to copy into Excel. |
+
+[**Explore all web apps**](https://iphobbes.github.io/)
 
 ## Building now
 
 ### [inASD Studio](https://inderstudio.com/apps/inasd-studio/)
 
-A focused macOS utility for hiding and revealing Ableton Live `.asd` analysis files in Finder — keeping creative workspaces tidy without throwing away useful data.
+A focused macOS utility for hiding and revealing Ableton Live `.asd` analysis files in Finder, keeping creative workspaces tidy without throwing away useful data.
 
 **Coming to the Mac App Store.**
 
@@ -62,8 +83,8 @@ macOS · Windows · Linux · Jamf · live events · interactive exhibits
 
 <div align="center">
 
-**Great technology doesn't just work — it inspires.**
+**Great technology doesn't just work. It inspires.**
 
-[Explore Inder Studio](https://inderstudio.com) · [Visit my wider portfolio](https://www.ipsingh.net)
+[Explore Inder Studio](https://inderstudio.com) · [Watch on YouTube](https://www.youtube.com/@inderstudio-YouTube)
 
 </div>
