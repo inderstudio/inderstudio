@@ -41,11 +41,11 @@ I also build focused browser tools that solve one problem well. They are free to
 
 | Web app | What it helps you do |
 |:--|:--|
-| [**Unix Timestamp Converter**](https://iphobbes.github.io/unix-timestamp-converter/) | Convert between Unix timestamps and human-readable dates and times. |
-| [**QR Creator**](https://iphobbes.github.io/QR-Creator/) | Create styled QR codes with a logo and caption, then export them as PNG, JPEG, or SVG. |
-| [**XL Formula Generator**](https://iphobbes.github.io/XL-Formula/) | Build XLOOKUP, FILTER, and IF formulas, ready to copy into Excel. |
+| [**Unix Timestamp Converter**](https://inderstudio.github.io/unix-timestamp-converter/) | Convert between Unix timestamps and human-readable dates and times. |
+| [**QR Creator**](https://inderstudio.github.io/QR-Creator/) | Create styled QR codes with a logo and caption, then export them as PNG, JPEG, or SVG. |
+| [**XL Formula Generator**](https://inderstudio.github.io/XL-Formula/) | Build XLOOKUP, FILTER, and IF formulas, ready to copy into Excel. |
 
-[**Explore all web apps**](https://iphobbes.github.io/)
+[**Explore all web apps**](https://inderstudio.github.io/)
 
 ## Building now
 
@@ -59,8 +59,8 @@ A focused macOS utility for hiding and revealing Ableton Live `.asd` analysis fi
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| [**asdMASK**](https://github.com/IPHOBBES/asdMASK) | The open-source AppleScript project that began my exploration of a better `.asd` file workflow. | AppleScript · macOS |
-| [**Folder ChaCha**](https://github.com/IPHOBBES/Folder-ChaCha) | Watches a folder and automatically moves or copies incoming files to a chosen destination. | AppleScript · macOS |
+| [**asdMASK**](https://github.com/inderstudio/asdMASK) | The open-source AppleScript project that began my exploration of a better `.asd` file workflow. | AppleScript · macOS |
+| [**Folder ChaCha**](https://github.com/inderstudio/Folder-ChaCha) | Watches a folder and automatically moves or copies incoming files to a chosen destination. | AppleScript · macOS |
 
 ## Tools I work with
 
